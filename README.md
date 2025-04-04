@@ -290,7 +290,7 @@ Sample:
     "version": "1.0.0",
     "name": "Test (Minecraft 1.12.2)",
     "description": "Test Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "icon": "How to set the server icon: https://github.com/Kevin-Studio-Dev/Nebula#setting-the-server-icon",
     "address": "localhost:25565",
     "discord": {
       "shortId": "1.12.2 Test Server",
@@ -357,5 +357,5 @@ Nebula will store JSON schemas in `${ROOT}/schemas`. This is so that they will a
 
 
 [dotenvnpm]: https://www.npmjs.com/package/dotenv
-[distro.md]: https://github.com/dscalzi/HeliosLauncher/blob/master/docs/distro.md
+[distro.md]: https://github.com/Kevin-Studio-Dev/Nani-Dia-Launcher/blob/master/docs/distro.md
 [jsonschemawebsite]: https://json-schema.org/

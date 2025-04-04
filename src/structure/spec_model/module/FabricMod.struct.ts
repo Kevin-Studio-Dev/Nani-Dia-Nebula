@@ -33,7 +33,7 @@ export class FabricModStructure extends BaseModStructure<FabricModJson> {
                     break
                 }
             }
-            // adapted from https://github.com/dscalzi/Claritas/blob/master/src/main/java/com/dscalzi/claritas/util/DataUtil.java
+            // adapted from https://github.com/Kevin-Studio-Dev/Claritas/blob/master/src/main/java/com/dscalzi/claritas/util/DataUtil.java
             if (group != null) {
                 const packageBits = group.split('.')
                 const blacklist = ['common', 'util', 'internal', 'tweaker', 'tweak', 'client', ...['forge', 'fabric', 'bukkit', 'sponge'].filter(t => t !== fmData.id)]
